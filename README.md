@@ -1,2 +1,2 @@
-# Cohort-Internship-
+# Cohort-Internship
 Cohort Internship Task 2
